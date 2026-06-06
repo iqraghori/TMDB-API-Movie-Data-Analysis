@@ -38,13 +38,13 @@ This project fetches real-time movie data from the TMDB API across 500 pages, pe
 ---
 
 ## 📁 Project Structure
-tmdb-movie-analysis/
-├── the_movie_database_api.ipynb  # Main notebook
+tmdb-movie-analysis/     .
+├── the_movie_database_api.ipynb  # Main notebook   .
 ├── README.md
 ├── requirements.txt
-├── images/                       # Saved plots
-├── movies_cleaned.csv            # Exported dataset
-└── .env                          # API key (not committed)
+├── images/                       # Saved plots   .
+├── movies_cleaned.csv            # Exported dataset   .
+└── .env                          # API key (not committed)   .
 
 ---
 
@@ -52,7 +52,7 @@ tmdb-movie-analysis/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/tmdb-movie-analysis
+git clone https://github.com/iqraghori/tmdb-movie-analysis
 
 # 2. Install dependencies
 pip install -r requirements.txt
