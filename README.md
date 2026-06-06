@@ -38,13 +38,13 @@ This project fetches real-time movie data from the TMDB API across 500 pages, pe
 ---
 
 ## 📁 Project Structure
-tmdb-movie-analysis/     .
-├── the_movie_database_api.ipynb  # Main notebook   .
+tmdb-movie-analysis/
+├── the_movie_database_api.ipynb  # Main notebook
 ├── README.md
 ├── requirements.txt
-├── images/                       # Saved plots   .
-├── movies_cleaned.csv            # Exported dataset   .
-└── .env                          # API key (not committed)   .
+├── images/                       # Saved plots
+├── movies_cleaned.csv            # Exported dataset
+└── .env                          # API key (not committed)
 
 ---
 
